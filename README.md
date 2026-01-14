@@ -55,30 +55,50 @@ cutting-edge <b>Artificial Intelligence</b>.
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=⚡%20Featured%20Projects&fontColor=00C9FF&fontSize=28" alt="Featured Projects" />
 <br/>
-
-<!-- Project 1 -->
-<b>📊 AI Analytics</b><br/>
-Real-time machine learning model metrics.<br/>
-<img src="https://img.shields.io/badge/Python-00C9FF?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<br/>
-<a href="#"><b>View Code</b> ↗</a>
-<br/><br/>
-
-<!-- Project 2 -->
-<b>🛍️ E-Commerce Platform</b><br/>
-Scalable microservices with Stripe integration.<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0072ff?style=flat-square&logo=docker&logoColor=white"/>
-<br/>
-<a href="#"><b>View Code</b> ↗</a>
-<br/><br/>
-
-<!-- Project 3 -->
-<b>🏠 Smart Home IoT</b><br/>
-Unified control via MQTT & Raspberry Pi.<br/>
-<img src="https://img.shields.io/badge/IoT-5a5a5a?style=flat-square"/> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
-<br/>
-<a href="#"><b>View Code</b> ↗</a>
-
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3>📊 AI Analytics</h3>
+      <p>Real-time machine learning model metrics.</p>
+      <img src="https://img.shields.io/badge/Python-00C9FF?style=flat-square&logo=python&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <br><br>
+      <a href="#"><b>View Code</b> ↗</a>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <h3>🛍️ E-Commerce Platform</h3>
+      <p>Scalable microservices with Stripe integration.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Docker-0072ff?style=flat-square&logo=docker&logoColor=white"/>
+      <br><br>
+      <a href="#"><b>View Code</b> ↗</a>
+      <br><br>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <br>
+      <h3>🏠 Smart Home IoT</h3>
+      <p>Unified control via MQTT & Raspberry Pi.</p>
+      <img src="https://img.shields.io/badge/IoT-5a5a5a?style=flat-square"/> 
+      <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
+      <br><br>
+      <a href="#"><b>View Code</b> ↗</a>
+      <br><br>
+    </td>
+    <td align="center" width="50%">
+      <br>
+      <h3>More Coming Soon...</h3>
+      <p>Working on exciting new things!</p>
+      <br><br>
+      <a href="#"><b>View Portfolio</b> ↗</a>
+      <br><br>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br />
