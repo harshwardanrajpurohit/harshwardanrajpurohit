@@ -110,6 +110,10 @@ cutting-edge <b>Artificial Intelligence</b>.
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=github&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Email-D84315?style=flat-square&logo=gmail&logoColor=white" /></a>
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Website-FFD700?style=flat-square&logo=google-chrome&logoColor=black" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Phone-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9FF&text=Thanks%20for%20Visiting!&height=30&fontSize=16&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+<!-- Thank You Message: Yellow Cursive -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Great+Vibes&weight=400&size=40&duration=1&pause=1000&color=FDC830&center=true&vCenter=true&width=400&lines=Thanks+for+Visiting!;Let's+Collaborate!" alt="Thanks for Visiting" />
 </div>
