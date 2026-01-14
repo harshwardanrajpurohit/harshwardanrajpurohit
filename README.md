@@ -1,19 +1,95 @@
-# 💫 About Me:
-Currently Working On<br>🚀 Building Gopala Digitals freelance agency - delivering MERN stack web apps and Agentic AI prototypes for clients. <br><br>Looking For Help With<br>🤝 Freelance gigs , advanced React/Node.js project reviews, CSS layouts, Docker/K8s setups for production apps, and time management between college + self-study.<br><br>Ask Me About<br>💻 Full-stack MERN tutorials, Agentic AI agent building (Python/JS), 3D modeling in Blender/FreeCAD, DSA practice (JS/Python), Ubuntu optimizations, or open-source contribs.<br><br>
+<div align="center">
 
+<!-- HEADER: Cosmic Blue Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00C9FF,92FE9D&height=250&section=header&text=Harshwardan%20Rajpurohit&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&fontAlignY=40" width="100%" alt="Header" />
 
-## 🌐 Socials:
-![Discord](https://discord.gg/harshwardanrajpurohit) ![Instagram](https://instagram.com/itss__harsh_7) ![LinkedIn](https://linkedin.com/in/harshwardanx) ![X](https://x.com/harshwardan_x) ![Mastodon](https://mastodon.social/@Harshwardan Rajpurohit) ![email](mailto:harshwardansingh.developer@gmail.com)
+<h3 style="color: #00C9FF; margin-top: -20px;">Full-Stack Engineer • AI & Data Science</h3>
 
-# 💻 Tech Stack:
-!Go !JavaScript !Markdown !Python !TypeScript !AWS !Google Cloud !Anaconda !Angular !Angular.js !DaisyUI !FastAPI !Express.js !Expo !NodeJS !React !React Native !MongoDB !Canva !Matplotlib !NumPy !Pandas !PyTorch !scikit-learn !TensorFlow !GitHub !Kubernetes !Docker !Git !Apache Hadoop
-# 📊 GitHub Stats:
-!<br/>
-!<br/>
-!
+<!-- Typing Animation: Cyan & Blue -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=20&duration=3000&pause=1000&color=00C9FF;92FE9D;0072ff&center=true&vCenter=true&width=500&lines=Building+Scalable+Software;Crafting+Intelligent+AI+Solutions;Optimizing+Linux+Systems" alt="Typing SVG" />
+</a>
 
-### ✍️ Random Dev Quote
-!
+</div>
 
----
-!
+<br />
+
+<!-- ABOUT ME -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=✨%20About%20Me&fontColor=00C9FF&fontSize=28" alt="About Me" />
+<br/>
+<p width="600px">
+I am a passionate <b>Full-Stack Engineer</b> building end-to-end software systems.<br/>
+My work bridges the gap between clean <b>Software Architecture</b> and <br/>
+cutting-edge <b>Artificial Intelligence</b>.
+</p>
+</div>
+
+<br />
+
+<!-- SKILLS -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=🚀%20Tech%20Stack&fontColor=00C9FF&fontSize=28" alt="Tech Stack" />
+<br/>
+<br/>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,html,css,linux,docker,kubernetes,tensorflow,pytorch,git,github,vscode,mongodb,postgres&perline=8&theme=light" alt="My Skills" />
+</a>
+</div>
+
+<br />
+
+<!-- EXPERTISE -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=🧠%20Domain%20Expertise&fontColor=00C9FF&fontSize=28" alt="Domain Expertise" />
+<br/>
+<img src="https://img.shields.io/badge/Agentic_AI-00C9FF?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Science-92FE9D?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-0072ff?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux_Systems-FDC830?style=flat-square&logo=linux&logoColor=black" />
+</div>
+
+<br />
+
+<!-- PROJECTS -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=⚡%20Featured%20Projects&fontColor=00C9FF&fontSize=28" alt="Featured Projects" />
+<br/>
+
+<!-- Project 1 -->
+<b>📊 AI Analytics</b><br/>
+Real-time machine learning model metrics.<br/>
+<img src="https://img.shields.io/badge/Python-00C9FF?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<br/>
+<a href="#"><b>View Code</b> ↗</a>
+<br/><br/>
+
+<!-- Project 2 -->
+<b>🛍️ E-Commerce Platform</b><br/>
+Scalable microservices with Stripe integration.<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0072ff?style=flat-square&logo=docker&logoColor=white"/>
+<br/>
+<a href="#"><b>View Code</b> ↗</a>
+<br/><br/>
+
+<!-- Project 3 -->
+<b>🏠 Smart Home IoT</b><br/>
+Unified control via MQTT & Raspberry Pi.<br/>
+<img src="https://img.shields.io/badge/IoT-5a5a5a?style=flat-square"/> <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry%20Pi&logoColor=white"/>
+<br/>
+<a href="#"><b>View Code</b> ↗</a>
+
+</div>
+
+<br />
+
+<!-- FOOTER -->
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=📫%20Connect&fontColor=00C9FF&fontSize=28" alt="Connect" />
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-212121?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Email-D84315?style=flat-square&logo=gmail&logoColor=white" /></a>
+<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00C9FF&text=Thanks%20for%20Visiting!&height=30&fontSize=16&fontColor=FFFFFF&animation=fadeIn" width="100%" />
+</div>
