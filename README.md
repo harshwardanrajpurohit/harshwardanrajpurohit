@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- COLOR BALANCED: Name stays yellow (handwritten highlight) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,6,12,24&height=350&section=header&text=Harshwardan%20Rajpurohit&fontSize=68&fontColor=FDC830&animation=twinkling&fontAlign=50&fontAlignY=33&fontFamily=Pacifico&stroke=4FACFE&strokeWidth=0.5" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,20,6,12,24&height=350&section=header&text=Harshwardan%20Rajpurohit&fontSize=68&fontColor=FDC830&animation=twinkling&fontAlign=50&fontAlignY=33&fontFamily=Pacifico" width="100%" alt="Header Banner" />
 
 <!-- COLOR BALANCED: Removed emojis, neutral text color -->
 <h1 style="color: #E5E7EB; margin-top: -15px; font-family: 'Poppins', sans-serif; font-weight: 600; font-size: 23px; letter-spacing: 0.5px;">
